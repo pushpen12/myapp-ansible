@@ -1,2 +1,2 @@
 [webservers]
-20.235.240.74 ansible_user=jenkins
+20.235.240.99 ansible_user=sfjbs
