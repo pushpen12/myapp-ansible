@@ -1,4 +1,4 @@
-- hosts: webserver
+- hosts: 20.235.240.99
   become: yes
   tasks:
 
